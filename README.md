@@ -60,7 +60,7 @@
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+![4337008](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Images/Planificacion.jpg)
 
 ## Autores
 Victor Andrés Garay Montes & Omar Alejandro Lozada Zúñiga
