@@ -34,24 +34,18 @@
 
 ## Código Fuente
 
-Prototipo echo en clase
+* Prototipo echo en clase
 * [Lección 1](https://github.com/CreacionDeVideojuegosGIDS/Prototipo-1)
-  * > Tutorial
-  * > Laboratorio
-  * > [Desafío](https://github.com/CreacionDeVideojuegosGIDS/Desaf-o-1)
-  * > Prueba
-Prototipo echo en clase
+  * > [Desafío](https://github.com/CreacionDeVideojuegosGIDS/Desaf-o-1)¿
+* Prototipo echo en clase
 * [Lección 2](https://github.com/CreacionDeVideojuegosGIDS/Prototipo-2)
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+  * > [Desafío 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/blob/main/Challengs/Challeng%202%20(Garay%20Montes%20Victor%20Andr%C3%A9s).unitypackage)
+  * > [Desafío 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/blob/main/Challengs/Desafio%202%20(Garay%20Montes%20Victor%20Andr%C3%A9s).unitypackage)¿
+* Prototipo echo en casa anexo evidencia los apartados de tutorial
 * [Lección 3](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203)
   * > [Tutorial 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P1.pdf)
-  * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P2.pdf)
-  * > Laboratorio
+  * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P2.pdf)¿
   * > Desafío
-  * > Prueba
 * Lección 4
   * > Tutorial
   * > Laboratorio
