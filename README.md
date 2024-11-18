@@ -34,18 +34,21 @@
 
 ## Código Fuente
 
-* Lección 1
+Prototipo echo en clase
+* [Lección 1](https://github.com/CreacionDeVideojuegosGIDS/Prototipo-1)
+  * > Tutorial
+  * > Laboratorio
+  * > [Desafío](https://github.com/CreacionDeVideojuegosGIDS/Desaf-o-1)
+  * > Prueba
+Prototipo echo en clase
+* [Lección 2](https://github.com/CreacionDeVideojuegosGIDS/Prototipo-2)
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
-* Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 3
-  * > Tutorial
+* [Lección 3](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203)
+  * > [Tutorial 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P1.pdf)
+  * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P2.pdf)
   * > Laboratorio
   * > Desafío
   * > Prueba
@@ -66,7 +69,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Victor Andrés Garay Montes & Omar Alejandro Lozada Zúñiga
 
 ## Copyright
 Derechos Reservados 2022
