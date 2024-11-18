@@ -51,11 +51,11 @@
   * > [Tutorial 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%204/Prototipo%204%20P1.pdf)
   * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%204/Prototipo%204%20P2.pdf)
   * > Desafío
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
+* [Lección 5](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%205)
+  * > [Tutorial 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%205/Prototipo%205%20P1.pdf)
+  * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Player%20Animations%202D)
   * > Desafío
-  * > Prueba
+* [Proyecto Prototipos](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%205)
 * VideoJuego
 
 ## Planificación
