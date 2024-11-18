@@ -23,7 +23,7 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto: Chrono Quest
 - Objetivo.
 - Plataforma ,Género, Clasificación, Personajes, Escenario.
 - Historia
@@ -41,16 +41,16 @@
 * [Lección 2](https://github.com/CreacionDeVideojuegosGIDS/Prototipo-2)
   * > [Desafío 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/blob/main/Challengs/Challeng%202%20(Garay%20Montes%20Victor%20Andr%C3%A9s).unitypackage)
   * > [Desafío 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/blob/main/Challengs/Desafio%202%20(Garay%20Montes%20Victor%20Andr%C3%A9s).unitypackage)
-* Prototipo echo en casa anexo evidencia los apartados de tutorial
+* Prototipo echo en casa anexo evidencia en los apartados de tutorial
 * [Lección 3](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203)
   * > [Tutorial 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P1.pdf)
   * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%203/Prototipo%203%20P2.pdf)
   * > Desafío
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
+* Prototipo echo en casa anexo evidencia en los apartados de tutorial
+* [Lección 4](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%204)
+  * > [Tutorial 1](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%204/Prototipo%204%20P1.pdf)
+  * > [Tutorial 2](https://github.com/CreacionDeVideojuegosGIDS/Evidencias/tree/main/Prototipo%204/Prototipo%204%20P2.pdf)
   * > Desafío
-  * > Prueba
 * Lección 5
   * > Tutorial
   * > Laboratorio
